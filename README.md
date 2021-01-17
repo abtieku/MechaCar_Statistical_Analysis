@@ -3,13 +3,13 @@
 ## Linear Regression to Predict MPG
 
 - Here is a screenshot of the output:
-  ![](./Resources/del1.png)
+![](./Resources/del1.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?    
-  - Vehicle length
-  - Ground clearance
+  - Vehicle length.
+  - Ground clearance.
   
-- Is the slope of the linear model considered to be zero? No
+- Is the slope of the linear model considered to be zero? No.
   
   - Why or why not? Because the p-value is much smaller than our assumed significance level.
   
@@ -20,9 +20,9 @@
 ## Summary Statistics on Suspension Coils
 
 - Here is a screenshot of the Total Summary Table:
-    ![](./Resources/total_summary.png)  
+![](./Resources/total_summary.png)  
 - Here is a screenshot of the Lot Summary Table:
-   ![](./Resources/lot_summary.png)  
+![](./Resources/lot_summary.png)  
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 
     - For all manufacturing lots in total, yes.  
     - For each lot individually, no. 
@@ -31,9 +31,9 @@
 
 ## T-Tests on Suspension Coils
 - Here is a screenshot of the mean:
- ![](./Resources/simple_mean.png)  
+![](./Resources/simple_mean.png)  
 - Here is a screenshot of Lot1:
- ![](./Resources/lot1.png)  
+![](./Resources/lot1.png)  
 - Here is a screenshot of Lot2:
 ![](./Resources/lot2.png)  
 - Here is a screenshot of Lot3:
@@ -55,11 +55,6 @@ This study will address the cost of maintenance.
 
 - Data needed to run the statistical test:
 	
-	- Cost of maintenance, which can include (not an exhaustive list)
-		
-		- Oil changes and related costs
-		- Tires, brakes and related costs
-		- Transmission and related costs
-		- Other
+	- Cost of maintenance (oil changes, brakes, tires, transmission, etc).
 		
 		
