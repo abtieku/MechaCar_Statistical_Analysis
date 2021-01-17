@@ -21,8 +21,10 @@
 
 - Here is a screenshot of the Total Summary Table:
 ![](./Resources/total_summary.png)  
+
 - Here is a screenshot of the Lot Summary Table:
 ![](./Resources/lot_summary.png)  
+
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 
     - For all manufacturing lots in total, yes.  
     - For each lot individually, no. 
@@ -32,12 +34,16 @@
 ## T-Tests on Suspension Coils
 - Here is a screenshot of the mean:
 ![](./Resources/simple_mean.png)  
+
 - Here is a screenshot of Lot1:
 ![](./Resources/lot1.png)  
+
 - Here is a screenshot of Lot2:
 ![](./Resources/lot2.png)  
+
 - Here is a screenshot of Lot3:
 ![](./Resources/lot3.png)  
+
 - The t-tests showed:
    - Lot1 had a p-value of 0.04, which is a normal significance level.
    - Lot2 had a p-value of 0.03 (rounded), which is between a normal and high significance level.
