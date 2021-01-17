@@ -22,10 +22,12 @@
 ## Summary Statistics on Suspension Coils
 
 - Here is a screenshot of the Total Summary Table:
+
 ![](./Resources/total_summary.png) 
 
 
 - Here is a screenshot of the Lot Summary Table:
+
 ![](./Resources/lot_summary.png) 
 
 
@@ -38,19 +40,24 @@
     - The variance for all lots is 62.29356 PSI; however, Lot3 by itself exceeds that. It has a variance of 170.2861224 PSI.
 
 ## T-Tests on Suspension Coils
+
 - Here is a screenshot of the mean:
+
 ![](./Resources/simple_mean.png) 
 
 
 - Here is a screenshot of Lot1:
+
 ![](./Resources/lot1.png) 
 
 
 - Here is a screenshot of Lot2:
+
 ![](./Resources/lot2.png) 
 
 
 - Here is a screenshot of Lot3:
+
 ![](./Resources/lot3.png) 
 
 
