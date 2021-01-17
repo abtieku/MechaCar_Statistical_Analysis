@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 - Here is a screenshot of the output:
-  ![](./01_Demo/Resources/del1.png)
+  ![](./Resources/del1.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?    
   - Vehicle length
@@ -20,9 +20,9 @@
 ## Summary Statistics on Suspension Coils
 
 - Here is a screenshot of the Total Summary Table:
-    ![](./01_Demo/Resources/total_summary.png)  
+    ![](./Resources/total_summary.png)  
 - Here is a screenshot of the Lot Summary Table:
-   ![](./01_Demo/Resources/lot_summary.png)  
+   ![](./Resources/lot_summary.png)  
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? 
     - For all manufacturing lots in total, yes.  
     - For each lot individually, no. 
@@ -31,13 +31,13 @@
 
 ## T-Tests on Suspension Coils
 - Here is a screenshot of the mean:
- ![](./01_Demo/Resources/simple_mean.png)  
+ ![](./Resources/simple_mean.png)  
 - Here is a screenshot of Lot1:
- ![](./01_Demo/Resources/lot1.png)  
+ ![](./Resources/lot1.png)  
 - Here is a screenshot of Lot2:
-![](./01_Demo/Resources/lot2.png)  
+![](./Resources/lot2.png)  
 - Here is a screenshot of Lot3:
-![](./01_Demo/Resources/lot3.png)  
+![](./Resources/lot3.png)  
 - The t-tests showed:
    - Lot1 had a p-value of 0.04, which is a normal significance level.
    - Lot2 had a p-value of 0.03 (rounded), which is between a normal and high significance level.
